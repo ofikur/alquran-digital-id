@@ -1,14 +1,14 @@
-# Quran Digital ID V1
+# Qur'an Digital ID V1
 
 ![Screenshot Aplikasi](screenshot/quran-digital-id.jpg)
 
-QuranDigital adalah platform Al-Quran digital modern yang menyediakan akses mudah untuk membaca ayat suci, mendengarkan lantunan murottal merdu, memahami makna melalui tafsir, serta dilengkapi dengan kumpulan doa harian untuk menyempurnakan ibadah Anda.
+Qur'an Digital ID adalah platform Al-Qur'an digital modern yang menyediakan akses mudah untuk membaca ayat suci, mendengarkan lantunan murottal merdu, memahami makna melalui tafsir, serta dilengkapi dengan kumpulan doa harian untuk menyempurnakan ibadah Anda.
 
 ---
 
 ## ✨ Fitur Utama
 
--   📖 **114 Surat Al-Quran**: Tampilan lengkap dengan terjemahan, transliterasi, dan tafsir per ayat.
+-   📖 **114 Surat Al-Qur'an**: Tampilan lengkap dengan terjemahan, transliterasi, dan tafsir per ayat.
 -   🤲 **Kumpulan Doa Harian**: Ratusan doa harian yang dikelompokkan berdasarkan kategori.
 -   🎧 **Audio Player**: Dengarkan murottal lengkap per surat dari 5 qari internasional.
 -   🔊 **Audio per Ayat**: Putar lantunan ayat tertentu langsung dari halaman baca.

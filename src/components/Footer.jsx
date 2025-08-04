@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           
           <div className="space-y-2">
-            <h3 className="font-bold text-lg text-foreground">QuranDigital</h3>
+            <h3 className="font-bold text-lg text-foreground">Qur'an Digital ID</h3>
             <p className="text-sm text-muted-foreground">
-              Jelajahi keindahan Al-Quran melalui platform digital yang intuitif. Dilengkapi dengan terjemahan Indonesia, tafsir mendalam, audio murottal dari qari pilihan, dan kumpulan doa harian untuk menemani ibadah Anda.
+              Jelajahi keindahan Al-Qur'an melalui platform digital yang intuitif. Dilengkapi dengan terjemahan Indonesia, tafsir mendalam, audio murottal dari qari pilihan, dan kumpulan doa harian untuk menemani ibadah Anda.
             </p>
           </div>
 
@@ -43,7 +43,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground">
           <p className="text-center md:text-left mb-2 md:mb-0">
-            &copy; 2025 Quran Digital ID ── Dibuat dengan ❤️ untuk Muslim Indonesia.
+            &copy; 2025 Qur'an Digital ID ── Dibuat dengan ❤️ untuk Muslim Indonesia.
           </p>
           <p className="font-medium">
             Web Version 1.0
