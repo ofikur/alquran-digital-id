@@ -32,7 +32,7 @@ Qur'an Digital ID adalah platform Al-Qur'an digital modern yang menyediakan akse
 
 ## 📊 Sumber Data
 
-Aplikasi ini sepenuhnya menggunakan data dari API publik yang disediakan oleh **[equran.id](https://equran.id)**.
+Aplikasi ini sepenuhnya menggunakan data dari API publik yang disediakan oleh **[equran.id](https://equran.id/apidev)**.
 
 ---
 
