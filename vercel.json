@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/v2/:path*",
+      "destination": "https://equran.id/api/v2/:path*"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "https://equran.id/api/:path*"
+    }
+  ]
+}
