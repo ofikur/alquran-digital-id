@@ -21,7 +21,6 @@ const DetailSurat = () => {
   const [selectedQari, setSelectedQari] = useState(DAFTAR_QARI[4]);
   const [playingAudio, setPlayingAudio] = useState(null);
   
-  // State baru untuk pencarian di sidebar
   const [sidebarSearch, setSidebarSearch] = useState('');
 
   useEffect(() => {
