@@ -57,7 +57,7 @@ const DetailDoa = () => {
           <div className="bg-card border border-border rounded-lg p-6">
              <div className="flex items-center gap-3 mb-4">
                 <InformationCircleIcon className="h-6 w-6 text-primary"/>
-                <h2 className="font-semibold text-lg text-foreground">Keterangan & Sumber</h2>
+                <h2 className="font-semibold text-lg text-foreground">Keterangan & Sumber</h2> 
             </div>
             <div className="text-sm text-muted-foreground whitespace-pre-line break-words border-l-2 border-primary pl-4">
                 {doa.tentang}
