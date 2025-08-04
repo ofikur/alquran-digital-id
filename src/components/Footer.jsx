@@ -28,7 +28,7 @@ const Footer = () => {
             <ul className="space-y-1">
               <li>
                 <a 
-                  href="https://equran.id" 
+                  href="https://equran.id/apidev" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-sm text-muted-foreground hover:text-primary transition-colors"
