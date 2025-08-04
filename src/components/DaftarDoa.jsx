@@ -104,7 +104,6 @@ const DaftarDoa = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {doaTampil.map((d) => (
-          // --- PERUBAHAN DI SINI: class `hover:-translate-y-1` dihapus ---
           <Link to={`/doa/${d.id}`} key={d.id} className="block group bg-card border border-border rounded-lg p-6 flex flex-col transition-all duration-300 hover:border-primary hover:shadow-lg">
             <div className="flex-grow">
               <p className="text-xs text-primary font-semibold mb-1">{d.grup}</p>
