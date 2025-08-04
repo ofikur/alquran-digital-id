@@ -7,10 +7,10 @@
     {
       "source": "/api/:path*",
       "destination": "https://equran.id/api/:path*"
+    },
+    {
+      "source": "/((?!api/|_next/|static/|images/|favicon.ico).*)",
+      "destination": "/index.html"
     }
-  ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/index.html" }
   ]
 }
