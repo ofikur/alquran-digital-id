@@ -40,8 +40,8 @@ const DaftarSurat = () => {
   return (
     <div className="container mx-auto px-4 py-8">
       <div className="text-center mb-8">
-        <h1 className="text-4xl font-bold">114 Surat Al-Quran</h1>
-        <p className="text-muted-foreground mt-2">Baca, dengar, dan pelajari Al-Quran dengan mudah.</p>
+        <h1 className="text-4xl font-bold">114 Surat Al-Qur'an</h1>
+        <p className="text-muted-foreground mt-2">Baca, dengar, dan pelajari Al-Qur'an dengan mudah.</p>
         <div className="relative mt-4 max-w-lg mx-auto">
           <MagnifyingGlassIcon className="h-5 w-5 text-muted-foreground absolute left-3 top-1/2 -translate-y-1/2" />
           <input
