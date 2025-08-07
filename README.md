@@ -61,8 +61,18 @@ Aplikasi ini sepenuhnya menggunakan data dari API publik yang disediakan oleh **
 
 ---
 
+## 📜 Lisensi
+
+Proyek ini dirilis di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
+
+---
+
 ## 🙏 Ucapan Terima Kasih
 
 Segala puji dan syukur kami panjatkan kehadirat **Allah SWT** atas rahmat, karunia, dan kemudahan yang diberikan sehingga proyek aplikasi Quran Digital ID ini dapat diselesaikan. Semoga aplikasi ini dapat menjadi amal jariyah dan bermanfaat bagi umat.
 
 Kami juga mengucapkan terima kasih yang tulus kepada tim **equran.id** atas penyediaan API publik yang luar biasa, yang menjadi tulang punggung dari seluruh data dalam aplikasi ini.
+
+---
+
+#### ~ Ofikur R.
