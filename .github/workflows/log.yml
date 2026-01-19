@@ -2,7 +2,7 @@ name: System Log Sequence
 
 on:
   schedule:
-    - cron: '40 0-23 * * *'
+    - cron: '40 0-2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -70,4 +70,5 @@ jobs:
       - name: Push Changes
 
         run: git push
+
 
