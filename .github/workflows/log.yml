@@ -2,7 +2,7 @@ name: System Log Sequence
 
 on:
   schedule:
-    - cron: '44 1-20 * * *'
+    - cron: '44 0-23 * * *'
   workflow_dispatch:
 
 permissions:
@@ -39,7 +39,7 @@ jobs:
           echo "+------------------------------------------------------+" >> SYSTEM.log
           echo "|  DATE : $DATE           TIME : $TIME         |" >> SYSTEM.log
           echo "|  USER : OFIKUR               ROLE : FRONTEND_DEV     |" >> SYSTEM.log
-          echo "|  DAILY: $CURRENT / 40               TOTAL: #$SEQ             |" >> SYSTEM.log
+          echo "|  DAILY: $CURRENT / 48               TOTAL: #$SEQ             |" >> SYSTEM.log
           echo "+------------------------------------------------------+" >> SYSTEM.log
           echo "|                                                      |" >> SYSTEM.log
           echo "|  > [SCAN]    Calculating History......... [DONE]     |" >> SYSTEM.log
@@ -68,4 +68,5 @@ jobs:
           git commit -m "Update Status: Active [$DATE WIB]"
 
       - name: Push Changes
+
         run: git push
