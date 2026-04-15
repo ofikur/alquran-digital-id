@@ -69,7 +69,9 @@ jobs:
 
       - name: Push Changes
 
-        run: git push
+        run: |
+          git pull origin main
+          git push
 
 
 
